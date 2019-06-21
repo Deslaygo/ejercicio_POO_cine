@@ -1,0 +1,7 @@
+C:\Users\xavie\source\repos\Ejercicios_bloque_l\ejercicio_POO_cine\bin\Debug\ejercicio_POO_cine.exe.config
+C:\Users\xavie\source\repos\Ejercicios_bloque_l\ejercicio_POO_cine\bin\Debug\ejercicio_POO_cine.exe
+C:\Users\xavie\source\repos\Ejercicios_bloque_l\ejercicio_POO_cine\bin\Debug\ejercicio_POO_cine.pdb
+C:\Users\xavie\source\repos\Ejercicios_bloque_l\ejercicio_POO_cine\obj\Debug\ejercicio_POO_cine.csprojAssemblyReference.cache
+C:\Users\xavie\source\repos\Ejercicios_bloque_l\ejercicio_POO_cine\obj\Debug\ejercicio_POO_cine.csproj.CoreCompileInputs.cache
+C:\Users\xavie\source\repos\Ejercicios_bloque_l\ejercicio_POO_cine\obj\Debug\ejercicio_POO_cine.exe
+C:\Users\xavie\source\repos\Ejercicios_bloque_l\ejercicio_POO_cine\obj\Debug\ejercicio_POO_cine.pdb
