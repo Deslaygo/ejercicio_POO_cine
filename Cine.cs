@@ -46,5 +46,11 @@ namespace ejercicio_POO_cine
             Console.WriteLine("Duración: " + largo2.Duracion);
         }
 
+        //Método saludo
+        public void saludo()
+        {
+            Console.WriteLine("Saludar");
+        }
+
     }
 }
